@@ -1,0 +1,15 @@
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\bin\Debug\net6.0\dinaragheb.exe
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\bin\Debug\net6.0\dinaragheb.deps.json
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\bin\Debug\net6.0\dinaragheb.runtimeconfig.json
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\bin\Debug\net6.0\dinaragheb.dll
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\bin\Debug\net6.0\dinaragheb.pdb
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.csproj.AssemblyReference.cache
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.AssemblyInfoInputs.cache
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.AssemblyInfo.cs
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.csproj.CoreCompileInputs.cache
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.dll
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\refint\dinaragheb.dll
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.pdb
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\dinaragheb.genruntimeconfig.cache
+C:\Users\Hp2\OneDrive\Desktop\dinaragheb\dinaragheb\obj\Debug\net6.0\ref\dinaragheb.dll
